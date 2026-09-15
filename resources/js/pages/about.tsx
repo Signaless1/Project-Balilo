@@ -1,5 +1,4 @@
 import { Head } from '@inertiajs/react';
-import { PlaceholderPattern } from '@/components/ui/placeholder-pattern';
 import { about } from '@/routes';
 
 export default function About() {

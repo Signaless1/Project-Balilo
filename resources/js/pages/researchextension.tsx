@@ -1,8 +1,7 @@
 import { Head } from '@inertiajs/react';
 import { PlaceholderPattern } from '@/components/ui/placeholder-pattern';
-import { researchextension } from '@/routes';
 
-export default function Researhextension() {
+export default function researhextension() {
     return (
         <>
             <Head title="Research Extension" />
@@ -26,7 +25,7 @@ export default function Researhextension() {
     );
 }
 
-Researhextension.layout = {
+researhextension.layout = {
     breadcrumbs: [
         {
             title: 'Research Extension',
